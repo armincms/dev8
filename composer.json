@@ -9,7 +9,8 @@
     "require": {
         "php": ">=7.1.0",
         "armincms/blogger" : "~0.1",
-        "armincms/easy-license" : "*"
+        "armincms/easy-license" : "*",
+        "armincms/eset" : "*"
     },
     "autoload": {
         "psr-4": {
